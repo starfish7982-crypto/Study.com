@@ -1,0 +1,45 @@
+@RELATION survey
+
+@ATTRIBUTE LGBTQ_support {Yes,No,Neutral}
+@ATTRIBUTE climate_action {Yes,No,Neutral}
+@ATTRIBUTE gun_control {Yes,No,Neutral}
+@ATTRIBUTE abortion_legal {Yes,No,Neutral}
+
+@ATTRIBUTE strict_immigration {Yes,No,Neutral}
+@ATTRIBUTE military_spending {Yes,No,Neutral}
+@ATTRIBUTE cut_welfare {Yes,No,Neutral}
+@ATTRIBUTE border_wall {Yes,No,Neutral}
+
+@ATTRIBUTE reduce_military {Yes,No,Neutral}
+@ATTRIBUTE legalize_marijuana {Yes,No,Neutral}
+@ATTRIBUTE raise_min_wage {Yes,No,Neutral}
+@ATTRIBUTE sustainable_agriculture {Yes,No,Neutral}
+
+@ATTRIBUTE lower_taxes {Yes,No,Neutral}
+@ATTRIBUTE end_foreign_wars {Yes,No,Neutral}
+@ATTRIBUTE abolish_fed {Yes,No,Neutral}
+@ATTRIBUTE property_rights {Yes,No,Neutral}
+
+@ATTRIBUTE party {Democrat,Republican,Green,Libertarian}
+
+@DATA
+Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Democrat
+Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Democrat
+Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Democrat
+Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Democrat
+Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Democrat
+No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Republican
+No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Republican
+No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Republican
+No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Republican
+No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Republican
+No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Green
+No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Green
+No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Green
+No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Green
+No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Green
+No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Libertarian
+No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Libertarian
+No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Libertarian
+No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Libertarian
+No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Libertarian
